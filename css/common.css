@@ -1,7 +1,8 @@
 h2{
-    color: blue;
+    text-align: center;
+    font-family: Prata, serif;
+    color: rgb(red, green, blue);
+    font-size: 28px;
+    font-stretch: 100%;
 }
 
-h3{
-    color:red;
-}
